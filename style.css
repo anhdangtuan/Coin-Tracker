@@ -1,0 +1,8 @@
+*{
+    color:black;
+}
+.chart-container{
+    border:  1px solid black;
+    max-width: 600px;
+    max-height: 800px;
+}
